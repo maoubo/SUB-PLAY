@@ -9,7 +9,7 @@ pettingzoo = 1.17.0
 
 pygame = 2.1.2
 
-### Replacement of Files
+## Replacement of Files
 After installing the required environment, you need to replace two specific files for proper functionality. Follow these steps:
 
 1. **Replace `clip_out_of_bounds.py`:**
