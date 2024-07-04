@@ -29,3 +29,14 @@ Make sure to perform these replacements to ensure the correct functioning of the
 **Note 1:** Replace `your_conda_environment_name` with the actual name of your Conda environment.
 
 **Note 2:** The `clip_out_of_bounds.py` and `simple_tag.py` used for replacement can be found in "materials".
+
+## Paper Citation
+If you used this code for your experiments or found it helpful, consider citing the following paper:
+<pre>
+@inproceedings{ma2024subplay,
+  title={SUB-PLAY: Adversarial Policies against Partially Observed Multi-Agent Reinforcement Learning Systems},
+  author={Ma, Oubo and Pu, Yuwen and Du, Linkang and Dai, Yang and Wang, Ruo and Liu, Xiaolei and Wu, Yingcai and Ji, Shouling},
+  booktitle={Proceedings of the 2024 ACM SIGSAC Conference on Computer and Communications Security (CCS)},
+  year={2024}
+}
+</pre>
