@@ -1,4 +1,4 @@
-name: mob
+name: backdoor
 channels:
   - pytorch
   - defaults
@@ -90,4 +90,3 @@ dependencies:
     - pytz==2022.6
     - scipy==1.9.3
     - zipp==3.10.0
-prefix: /home/mob/software/anaconda3/envs/mob
