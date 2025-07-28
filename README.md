@@ -1,13 +1,20 @@
 # SUB-PLAY
 ## Installation
 
-python = 3.8.8
+1. **Transfer Environment File:**
+    - Move the environment configuration file `environment.yml` to your target server.
 
-gym = 0.26.2
+2. **Create Conda Environment:**
+    - Run the following command to create a new Conda environment:
+      ```
+      conda env create -n subplay -f environment.yml
+      ```
 
-pettingzoo = 1.17.0
-
-pygame = 2.1.2
+    - **Note:** If you prefer to install the environment manually (instead of using the `.yml` file), make sure to include the following key packages.  We recommend using the exact versions listed below, as they have been tested to be mutually compatible:
+      - `python = 3.8.8`
+      - `gym = 0.26.2`
+      - `pettingzoo = 1.17.0`
+      - `pygame = 2.1.2`
 
 ## Replacement of Files
 After installing the required environment, you need to replace two specific files for proper functionality. Follow these steps:

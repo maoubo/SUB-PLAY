@@ -1,4 +1,4 @@
-name: backdoor
+name: sub_play
 channels:
   - pytorch
   - defaults
