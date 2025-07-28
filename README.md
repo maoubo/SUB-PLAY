@@ -3,7 +3,7 @@
 
 python = 3.8.8
 
-gym = 0.26.1
+gym = 0.26.2
 
 pettingzoo = 1.17.0
 
