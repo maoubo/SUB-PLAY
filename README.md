@@ -15,6 +15,9 @@
       - `gym = 0.26.2`
       - `pettingzoo = 1.17.0`
       - `pygame = 2.1.2`
+      - `matplotlib = 3.5.3`
+      - `pandas = 1.5.1`
+      - `pytorch (CPU version, e.g., installed via pip3 install torch torchvision; note that the current code is not compatible with GPU. Please modify accordingly if GPU support is needed.)`
 
 ## Replacement of Files
 After installing the required environment, you need to replace two specific files for proper functionality. Follow these steps:
