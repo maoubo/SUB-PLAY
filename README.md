@@ -45,8 +45,10 @@ If you used this code for your experiments or found it helpful, consider citing 
 <pre>
 @inproceedings{ma2024subplay,
   title={SUB-PLAY: Adversarial Policies against Partially Observed Multi-Agent Reinforcement Learning Systems},
-  author={Ma, Oubo and Pu, Yuwen and Du, Linkang and Dai, Yang and Wang, Ruo and Liu, Xiaolei and Wu, Yingcai and Ji, Shouling},
+  author={Oubo Ma and Yuwen Pu and Linkang Du and Yang Dai and Ruo Wang and Xiaolei Liu and Yingcai Wu and Shouling Ji},
   booktitle={Proceedings of the 2024 ACM SIGSAC Conference on Computer and Communications Security (CCS)},
-  year={2024}
+  pages={645--659},
+  year={2024},
+  publisher={ACM}
 }
 </pre>
